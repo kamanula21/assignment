@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Client>
+    <name>Patrick</name>
+    <surname>Lupiya</surname>
+    <mobile>+90555555555</mobile>
+    <occupation>Student</occupation>
+    <height>190</height>
+    <birthdate>Monday, February 27, 1995</birthdate>
+    <gender>Male</gender>
+    <smoking>None Smoker</smoking>
+    <health>None</health>
+    <goals> Weight Gain</goals>
+    <notes> None</notes>
+  </Client>
+  <Client>
+    <name>Poniso</name>
+    <surname>Miti</surname>
+    <mobile>+9054883214561</mobile>
+    <occupation>Student</occupation>
+    <height>165</height>
+    <birthdate>Saturday, February 11, 1995</birthdate>
+    <gender>Female</gender>
+    <smoking>None Smoker</smoking>
+    <health>None</health>
+    <goals>Weight Loss</goals>
+    <notes>Text: None</notes>
+  </Client>
+  <Client>
+    <name>phillip</name>
+    <surname>chesswa</surname>
+    <mobile>111111111111111111</mobile>
+    <occupation>student</occupation>
+    <height>344</height>
+    <birthdate>Sunday, February 22, 2015</birthdate>
+    <gender>Male</gender>
+    <smoking>None Smoker</smoking>
+    <health>dsoıfsgoıufsıodff</health>
+    <goals>odusgfousgfodufs</goals>
+    <notes>sdfosudfoudfgsd</notes>
+  </Client>
+</Clients>
